@@ -1,0 +1,14 @@
+{
+  "name": "webpack-constants-import-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./index",
+    "build": "webpack"
+  },
+  "dependencies": {
+    "webpack": "2.2.1",
+    "webpack-dev-server": "1.16.3"
+  }
+}

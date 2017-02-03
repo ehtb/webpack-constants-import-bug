@@ -1,0 +1,5 @@
+{
+  "private": true,
+  "name": "dummies",
+  "browser": "./dummy.client.js"
+}
